@@ -24,7 +24,7 @@
 ```
 
 ## KInstall: The Universal Package Installer 🛠️
-
+THIS IS OUR PROJECT
 KInstall is a script that simplifies the installation of packages on various Linux distributions and macOS. It supports different package managers based on the user's operating system.
 
 ## Usage 🚀
